@@ -1,0 +1,4 @@
+-   Place source cpp files at src directory
+-   Place header files at include/game directory
+-   use #include "SDL3/header_name"    <---- SDL header file 
+-   use #include "game/header_name"    <---- game header file 
